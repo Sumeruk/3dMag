@@ -11,3 +11,4 @@ git clone https://github.com/Sumeruk/3dMag.git
 npm run dev
 ```
 
+Скриншот результата: https://github.com/Sumeruk/3dMag/blob/main/Screen1.png
